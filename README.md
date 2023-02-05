@@ -1,24 +1,44 @@
 ## Hey 👋, I'm [HERE](https://github.com/superdev1218999/)
+
 ### Glad to see you here! &nbsp; 
 I'm a graduate in Computer Science 🎓 from Singapore University of Technology and Design 🏛. I'm a passionate learaner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
 Joined Github **8** years ago.
+
 Since then I pushed many commits, and contributed to **10**+ public repositories.
+
 Like My Work?
+
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ### Talking about Personal Stuffs:
+
 - 🛠 &nbsp; I’m currently working with Javascript, Typescript, React.js, Vue.js, Angular, Svelte.js, Next.js, Nodejs, ExpressJS, Nest.js, <br /> PHP, CI, Laravel, Yii, <br /> Python, Django, <br /> C++, C#, Unity, <br /> Blockchain, Solidity etc.
+
 - 🚀 &nbsp; I’m currently learning AWS Development.
+
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/superdev1218999).
+
 - 💬 &nbsp; Ask me about anything [here](https://github.com/superdev1218999)! I am happy to help.
+
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+
 - 📝 &nbsp; Checkout my [Resume](https://github.com/superdev1218999/superdev1218999/cv.pdf).
+
 ### My Absolute Favorites:
+
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
+
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+
 - 🚀 &nbsp; I’m open mind.
+
 - 👾 &nbsp; I value collaboration.
+
 ### Languages and Tools:
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -32,6 +52,5 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
-
+  Show some ❤️ by starring some of the repositories!
 </div>
