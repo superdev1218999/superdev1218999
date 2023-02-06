@@ -1,4 +1,4 @@
-## Hey 👋, I'm [HERE](https://github.com/superdev1218999/)
+## Hey 👋, I'm [Andrian Lin](https://superdev1218999.github.io)
 
 ### Glad to see you here! &nbsp; 
 I'm a graduate in Computer Science 🎓 from Singapore University of Technology and Design 🏛. I'm a passionate learaner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
@@ -19,11 +19,11 @@ Like My Work?
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/superdev1218999).
 
-- 💬 &nbsp; Ask me about anything [here](https://github.com/superdev1218999)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://superdev1218999.github.io)! I am happy to help.
 
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
-- 📝 &nbsp; Checkout my [resume](https://github.com/superdev1218999/superdev1218999/cv.pdf).
+- 📝 &nbsp; Checkout my [resume](https://github.com/superdev1218999/superdev1218999.github.io/pdf/cv-AndrianLin.pdf).
 
 ### My Absolute Favorites:
 
