@@ -23,7 +23,7 @@ Like My Work?
 
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
-- 📝 &nbsp; Checkout my [resume](https://github.com/superdev1218999/superdev1218999.github.io/tree/master/pdf/cv.pdf).
+- 📝 &nbsp; Checkout my [resume](https://github.com/superdev1218999/superdev1218999.github.io/tree/master/pdf/cv-AndrianLin.pdf).
 
 ### My Absolute Favorites:
 
